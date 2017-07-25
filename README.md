@@ -1,11 +1,11 @@
 # FlatUIAfricanFlags
 A collection of flat UI styled African flags.
 
-##Format
+## Format
 
-All flags are set in SVG format as well as png for your convienence.
+All flags are set in `svg` format as well as `png` for your convenience.
 
-##Flags
+## Flags
 
 ![algeria](Flags/png80/algeria.png) ![angola](Flags/png80/angola.png) ![benin](Flags/png80/benin.png) ![botswana](Flags/png80/botswana.png) ![burkina-faso](Flags/png80/burkina-faso.png) ![burundi](Flags/png80/burundi.png)
 
