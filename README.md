@@ -27,5 +27,5 @@ All flags are set in `svg` format as well as `png` for your convenience.
 
 ![zambia](Flags/png80/zambia.png)  ![zimbabwe](Flags/png80/zimbabwe.png)
 
-##License
+## License
 MIT
